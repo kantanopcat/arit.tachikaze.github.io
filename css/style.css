@@ -2,7 +2,7 @@
     IMPORT FONTS
 -------------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
 /*------------------------------------------------------------------
     IMPORT FILES
@@ -20,8 +20,9 @@
 body {
     color: #666666;
     font-size: 15px;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Sriracha', cursive;
     line-height: 1.80857;
+    background: ;
 }
 
 
@@ -53,7 +54,7 @@ h6 {
 }
 
 h1 {
-    font-size: 24px
+    font-size: 20px;
 }
 
 h2 {
@@ -165,7 +166,7 @@ button:focus{
 	padding: 15px 0px;
 	position: fixed;
 	width: 100%;
-	border-radius: 0px 0px 100px 100px;
+	border-radius: 0px 0px 50px 50px;
 	transition: height .3s ease-out, background .3s ease-out, box-shadow .3s ease-out;
 	-webkit-transform: translate3d(0, 0, 0);
 	transform: translate3d(0, 0, 0);
@@ -175,9 +176,9 @@ button:focus{
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-link{
-	color: #010101;
-	font-size: 16px;
-	padding: 10px 20px;
+	color: #ffffff;
+    font-size: 13px;
+    text-align: center;
 	border-radius: 4px;
 	text-transform: uppercase;
 }
@@ -204,7 +205,7 @@ button:focus{
 }
 
 .navbar-expand-lg .navbar-nav .dropdown-menu a.dropdown-item:hover{
-	background: #d65106;
+	background: #00b436;
 	color: #ffffff;
 }
 .navbar-light .navbar-toggler:hover{
@@ -219,7 +220,7 @@ button:focus{
 	height: 100vh;
 }
 .slides-navigation a {
-	background: #d65106;
+	background: #00b436;
     position: absolute;
     height: 50px;
     width: 50px;
@@ -296,7 +297,7 @@ button:focus{
 }
 
 .cover-slides h1{
-	font-family: 'Rubik', sans-serif;
+	font-family: 'Sriracha', cursive;
 	font-weight: 500;
 	font-size: 64px;
 	color: #fff;
@@ -309,8 +310,8 @@ button:focus{
 	border: 2px solid #ffffff;
 }
 .slides-pagination a.current{
-	background: #d65106;
-	border: 2px solid #d65106;
+	background: #00d612;
+	border: 2px solid #006108;
 }
 
 /*------------------------------------------------------------------
