@@ -95,3 +95,19 @@ height: auto;
     border: 10px solid rgba(0, 34, 6, 0.418);
     border-radius: 5em;
 }
+
+
+
+
+
+.minimenu-ab{
+width: auto;
+height: auto;
+
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  background: #37bc9b;
+  font-size: 15px;
+
+}
