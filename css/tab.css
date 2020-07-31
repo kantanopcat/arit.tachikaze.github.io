@@ -101,9 +101,8 @@ height: auto;
 
 
 .minimenu-ab{
-width: auto;
-height: auto;
-
+  width: auto;
+  height: auto;
   display: flex;
   flex-flow: wrap;
   justify-content: space-around;
