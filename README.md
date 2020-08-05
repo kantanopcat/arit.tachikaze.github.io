@@ -5,4 +5,4 @@
 - update 7 31 2020 : update หน้า about ให้แสดงเมนูให้ดูต้อง  แก้ไขหน้า internalcontact ให้ใช้แบบฟรอมเหมือนหน้าที่อยู่หมวดหมู่เดียวกัน เพิ่มหน้า philosophy & strategic.html & organizationalstructure (วางโครงร่าง) remove หน้าที่ไม่เกี่ยวข้องกับงานหลักทั้งหมด
 - update 8 3 2020 : responsive google calendar
 - update 8 4 2020 : add stuffpage & addorganizational ศึกษาการใช้งาน Git destop
-- update 8 5 2020 : มีปัญหาที่ไม่สามารถอัพงานลง Git hub ได้
+- update 8 5 2020 : มีปัญหาที่ไม่สามารถอัพงานลง Git hub ผ่านcmd ได้  ทำการย้ายไปอัพงานผ่าน Git Dastop แทน
